@@ -1,5 +1,5 @@
 # cnipList-apanic
-一個來自Apanic的CNIP Range
+一個取自Apanic的CNIP Range
 
 純手工Excel打造，不一定準確。
 
